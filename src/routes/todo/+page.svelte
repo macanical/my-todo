@@ -3,5 +3,5 @@
 	<a href="/todo">todo</a>
 </nav>
 
-<h1>home</h1>
-<p>This is the home page.</p>
+<h1>todo</h1>
+<p>This is the todo page.</p>
